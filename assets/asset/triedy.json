@@ -70,14 +70,14 @@
     "y": 0.33749984741210937
   },
   {
-    "name": "0",
-    "short": "0",
+    "name": "1.A",
+    "short": "1.A",
     "poschodie": "1",
     "x": 0.2,
     "y": 0.33749984741210937
   },
   {
-    "name": "Učebňa AJ3",
+    "name": "Učebňa UAJ3",
     "short": "UAJ3",
     "poschodie": "1",
     "x": 0.55,
@@ -140,7 +140,7 @@
   },
   {
     "name": "2.B",
-    "short": "2.b",
+    "short": "2.B",
     "poschodie": "2",
     "x": 0.125,
     "y": 0.33749984741210937
@@ -160,22 +160,22 @@
     "y": 0.33749984741210937
   },
   {
-    "name": "MMU1",
-    "short": "MMU1",
+    "name": "1.F",
+    "short": "1.F",
     "poschodie": "2",
     "x": 0.5,
     "y": 0.33749984741210937
   },
   {
-    "name": "0",
-    "short": "0",
+    "name": "1.C",
+    "short": "1.C",
     "poschodie": "2",
     "x": 0.575,
     "y": 0.33749984741210937
   },
   {
-    "name": "0",
-    "short": "0",
+    "name": "1.D",
+    "short": "1.D",
     "poschodie": "2",
     "x": 0.65,
     "y": 0.33749984741210937
@@ -188,8 +188,8 @@
     "y": 0.33749984741210937
   },
   {
-    "name": "0",
-    "short": "0",
+    "name": "1.B",
+    "short": "1.B",
     "poschodie": "2",
     "x": 0.2,
     "y": 0.33749984741210937
@@ -202,15 +202,15 @@
     "y": 0.4749998474121094
   },
   {
-    "name": "0",
-    "short": "0",
+    "name": "4.F",
+    "short": "4.F",
     "poschodie": "2",
     "x": 0.6875,
     "y": 0.4749998474121094
   },
   {
     "name": "LFZY1",
-    "short": "LFZY1",
+    "short": "Labák fyzikz 1",
     "poschodie": "2",
     "x": 0.7625,
     "y": 0.4749998474121094
@@ -221,5 +221,89 @@
     "poschodie": "2",
     "x": 0.1375,
     "y": 0.5999998474121093
+  },{
+    "name": "Informatika 3",
+    "short": "INF3",
+    "poschodie": "2",
+    "x": 0.21250001907348634,
+    "y": 0.6
+  },
+  {
+    "name": "Učebňa FJ3",
+    "short": "UFJ3",
+    "poschodie": "2",
+    "x": 0.3625,
+    "y": 0.6
+  },
+  {
+    "name": "MMU2",
+    "short": "MMU2",
+    "poschodie": "2",
+    "x": 0.6250000381469727,
+    "y": 0.6125
+  },
+  {
+    "name": "Informatika 2",
+    "short": "INF2",
+    "poschodie": "2",
+    "x": 0.5500000381469726,
+    "y": 0.6
+  },
+  {
+    "name": "Labák biológie",
+    "short": "LBIO",
+    "poschodie": "3",
+    "x": 0.7875000762939454,
+    "y": 0.4749998474121094
+  },
+  {
+    "name": "Učebňa biológie",
+    "short": "UBI",
+    "poschodie": "3",
+    "x": 0.7125,
+    "y": 0.4749998474121094
+  },
+  {
+    "name": "Labák Ch",
+    "short": "LCHE",
+    "poschodie": "3",
+    "x": 0.6375000381469726,
+    "y": 0.4749998474121094
+  },
+  {
+    "name": "Učebňa chémie",
+    "short": "UCH",
+    "poschodie": "3",
+    "x": 0.38750003814697265,
+    "y": 0.5125
+  },
+  {
+    "name": "Učebňa geografie",
+    "short": "UGE",
+    "poschodie": "3",
+    "x": 0.9000000762939453,
+    "y": 0.49375
+  },
+  {
+    "name": "Učebňa výchoných predmetov",
+    "short": "UVP",
+    "poschodie": "3",
+    "x": 0.6250000381469727,
+    "y": 0.5999998474121093
+  },
+  {
+    "name": "Informatika 4",
+    "short": "INF4",
+    "poschodie": "3",
+    "x": 0.2875000190734863,
+    "y": 0.5999998474121093
+  },
+  {
+    "name": "Učebňa chémie",
+    "short": "UCH",
+    "poschodie": "3",
+    "x": 0.37500003814697264,
+    "y": -1.539166717529297
   }
+  
 ]
