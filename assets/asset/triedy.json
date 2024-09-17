@@ -7,6 +7,13 @@
     "y": 0.33749984741210937
   },
   {
+    "name": "ITU",
+    "short": "ITU",
+    "poschodie": "1",
+    "x": 0.37500003814697264,
+    "y": 0.51875
+  },
+  {
     "name": "Učebňa NJ",
     "short": "UNJ",
     "poschodie": "1",
@@ -77,28 +84,28 @@
     "y": 0.33749984741210937
   },
   {
-    "name": "Učebňa UAJ3",
+    "name": "Učebňa UAJ 3",
     "short": "UAJ3",
     "poschodie": "1",
     "x": 0.55,
     "y": 0.4749998474121094
   },
   {
-    "name": "Učebna FJ1",
+    "name": "Učebna FJ 1",
     "short": "UFJ1",
     "poschodie": "1",
     "x": 0.8375,
     "y": 0.4749998474121094
   },
   {
-    "name": "Učebňa AJ1",
+    "name": "Učebňa AJ 1",
     "short": "UAJ1",
     "poschodie": "1",
     "x": 0.6875,
     "y": 0.4749998474121094
   },
   {
-    "name": "Učebňa AJ2",
+    "name": "Učebňa AJ 2",
     "short": "UAJ2",
     "poschodie": "1",
     "x": 0.7625,
@@ -112,7 +119,7 @@
     "y": 0.5999998474121093
   },
   {
-    "name": "Učebňa FJ2",
+    "name": "Učebňa FJ 2",
     "short": "UFJ2",
     "poschodie": "1",
     "x": 0.0625,
@@ -202,14 +209,14 @@
     "y": 0.4749998474121094
   },
   {
-    "name": "4.F",
-    "short": "4.F",
+    "name": "IV.F-D",
+    "short": "IV.F-D",
     "poschodie": "2",
     "x": 0.6875,
     "y": 0.4749998474121094
   },
   {
-    "name": "Labák fyzikz 1",
+    "name": "Laboratórium F 1",
     "short": "LFZY1",
     "poschodie": "2",
     "x": 0.7625,
@@ -229,7 +236,7 @@
     "y": 0.6
   },
   {
-    "name": "Učebňa FJ3",
+    "name": "Učebňa FJ 3",
     "short": "UFJ3",
     "poschodie": "2",
     "x": 0.3625,
@@ -241,6 +248,13 @@
     "poschodie": "2",
     "x": 0.6250000381469727,
     "y": 0.6125
+  },
+  {
+    "name": "Laboratórium F 2",
+    "short": "LFYZ2",
+    "poschodie": "2",
+    "x": 0.8250000762939453,
+    "y": -0.5258332824707032
   },
   {
     "name": "Informatika 2",
@@ -264,7 +278,7 @@
     "y": 0.4749998474121094
   },
   {
-    "name": "Labák Ch",
+    "name": "Laboratórium CH",
     "short": "LCHE",
     "poschodie": "3",
     "x": 0.6375000381469726,
