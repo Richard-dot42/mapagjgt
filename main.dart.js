@@ -83520,7 +83520,7 @@ r.n(0,"short",s.b)
 return r}}
 A.rd.prototype={
 N(a){var s=null,r=this.c
-return A.anu(A.apX(A.W(255,55,211,55),A.e6(r,s,s,s,B.yg,s,s)),A.iB(A.arx(new A.qL(new A.nb("asset/rozvrhy/"+r+".png",s,s),s),2.5,0.8,s,s,!0,s),s,s))}}
+return A.anu(A.apX(A.W(255,55,211,55),A.e6(r,s,s,s,B.yg,s,s)),A.arx(A.iB(new A.qL(new A.nb("asset/rozvrhy/"+r+".png",s,s),s),s,s),2.5,0.8,s,s,!0,s))}}
 A.Am.prototype={
 N(a){var s=null,r=this.c,q=A.arw(s,s,s,s,s,s,s,s,!0,B.J5,s,s,s,s,s,B.BR,!0,s,s,s,s,B.J6,s,s,s,s,s,s,s,s,this.e,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),p=r?B.Mg:B.Mh,o=r?B.Mi:B.Mj
 return new A.db(B.Dc,new A.Aa(this.d,q,B.Nv,r,p,o,!0,s),s)}}
