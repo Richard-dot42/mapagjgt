@@ -1,0 +1,120 @@
+[
+  {
+    "name": "HOC, TRU",
+    "short": "HOC, TRU",
+    "poschodie": "1",
+    "x": 0.5125000381469726,
+    "y": 0.3375
+  },
+  {
+    "name": "ŽIL, SZE, GRO",
+    "short": "ŽIL, SZE, GRO",
+    "poschodie": "1",
+    "x": 0.6125000381469726,
+    "y": 0.48125
+  },
+  {
+    "name": "CHLE,ZAT,SHA",
+    "short": "CHLE, ZAT, SHA",
+    "poschodie": "1",
+    "x": 0.2875000190734863,
+    "y": 0.3375
+  },
+  {
+    "name": "FAB,HUC,MON",
+    "short": "FAB, HUC, MON",
+    "poschodie": "1",
+    "x": 0.6875,
+    "y": 0.48125
+  },
+  {
+    "name": "BEL,ŠIM,CHR",
+    "short": "BEL, ŠIM, CHR",
+    "poschodie": "1",
+    "x": 0.15000000953674317,
+    "y": 0.625
+  },
+  {
+    "name": "ČAJ, ŠUF, KRI",
+    "short": "ČAJ, ŠUF, KRI",
+    "poschodie": "2",
+    "x": 0.5125000381469726,
+    "y": 0.3375
+  },
+  {
+    "name": "MZA, MI,ZACH",
+    "short": "MZA, MIN, ZACH",
+    "poschodie": "2",
+    "x": 0.6125000381469726,
+    "y": 0.48125
+  },
+  {
+    "name": "VIT, LIŠ, KLI",
+    "short": "VIT, LIŠ, KLI",
+    "poschodie": "2",
+    "x": 0.2875000190734863,
+    "y": 0.3375
+  },
+  {
+    "name": "AND, PAV, CAR",
+    "short": "AND, PAV, CAR",
+    "poschodie": "2",
+    "x": 0.38750003814697265,
+    "y": 0.5
+  },
+  {
+    "name": "BAY, BAR, OND, KOT,",
+    "short": "BAY, BAR, OND, KOT,",
+    "poschodie": "2",
+    "x": 0.8125000762939453,
+    "y": 0.48125
+  },
+  {
+    "name": "PAS, SRS, JAR",
+    "short": "PAS, SRS, JAR",
+    "poschodie": "2",
+    "x": 0.38750003814697265,
+    "y": 0.525
+  },
+  {
+    "name": "GIL, ŠK",
+    "short": "GIL, ŠK",
+    "poschodie": "2",
+    "x": 0.20000001907348633,
+    "y": 0.6
+  },
+  {
+    "name": "ZBO, PIK, GUY, DRO",
+    "short": "ZBO, PIK, GUY, DRO",
+    "poschodie": "2",
+    "x": 0.35,
+    "y": 0.6
+  },{
+    "name": "HR, CAB, ORA",
+    "short": "HR, CAB, ORA",
+    "poschodie": "3",
+    "x": 0.6125000381469726,
+    "y": 0.48125
+  },
+  {
+    "name": "KM, HAL",
+    "short": "KM, HAL",
+    "poschodie": "3",
+    "x": 0.38750003814697265,
+    "y": 0.5
+  },
+  {
+    "name": "DVO, KOZ, FED, ŠTI",
+    "short": "DVO, KOZ, FED, ŠTI",
+    "poschodie": "3",
+    "x": 0.8125000762939453,
+    "y": 0.48125
+  },
+  {
+    "name": "LEŠ, LUC",
+    "short": "LEŠ, LUC",
+    "poschodie": "1",
+    "x": 0.20000001907348633,
+    "y": 0.625
+  }
+]
